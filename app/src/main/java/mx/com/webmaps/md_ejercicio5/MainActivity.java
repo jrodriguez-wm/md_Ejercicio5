@@ -1,4 +1,4 @@
-package mx.com.webmaps.md_ejericicio5;
+package mx.com.webmaps.md_ejercicio5;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.widget.ProgressBar;
 
 import java.util.Timer;
 import java.util.TimerTask;
+
+import mx.com.webmaps.md_ejericicio5.R;
 
 public class MainActivity extends AppCompatActivity {
 
